@@ -1,0 +1,13 @@
+{
+  "name": "leapsnap",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "leapjs": "^0.6.2",
+    "underscore": "^1.7.0",
+    "ws": "^0.4.32"
+  }
+}
